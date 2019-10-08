@@ -1,3 +1,8 @@
+#### Name: [ABHAYA KIRTIVASAN](https://github.com/abhayak11)
+- Place: India
+- Bio: Aspiring Data Scientist
+- GitHub: [Abhaya Kirtivasan](https://github.com/abhayak11)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
